@@ -1,5 +1,4 @@
-# james-G
-i mine diamonds and slay creepers
+trip wire code
 
 from gpiozero import LightSensor,Buzzer
 from time import sleep
